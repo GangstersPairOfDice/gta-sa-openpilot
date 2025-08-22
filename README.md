@@ -1,5 +1,5 @@
 # gta-sa-openpilot
-comma.ai's openpilot ported to Grand Theft Auto: San Andreas
+self driving in Grand Theft Auto: San Andreas using comma.ai's openpilot
 
 ## plan
 
