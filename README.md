@@ -1,6 +1,10 @@
 # gta-sa-openpilot
 self driving in Grand Theft Auto: San Andreas using comma.ai's openpilot
 
+# status
+
+project postponed until i get a better computer. installing openpilot from source using homebrew on a mac probably takes 12+ hours, so either i find the time or get a better computer.
+
 ## plan
 
 I am not sure whether i need to train a new net or not.
